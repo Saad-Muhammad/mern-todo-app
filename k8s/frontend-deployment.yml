@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo-frontend
-        image: your-username/todo-frontend:latest
+        image: mrtoast07/todo-frontend:5be85e1fee726da85dfc5468baf4d05a70e87002
         ports:
         - containerPort: 80
         env:
