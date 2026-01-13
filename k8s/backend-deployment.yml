@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo-backend
-        image: your-username/todo-backend:latest
+        image: mrtoast07/todo-backend:5be85e1fee726da85dfc5468baf4d05a70e87002
         ports:
         - containerPort: 3000
         env:
