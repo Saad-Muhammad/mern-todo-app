@@ -83,7 +83,7 @@ function App() {
         <div className="app-container">
             <div className="todo-card">
                 <h1>📝 Todo App</h1>
-                <p className="subtitle">MERN Stack Demo</p>
+                <p className="subtitle">MERN Stack Application</p>
 
                 {error && <div className="error-message">{error}</div>}
 
